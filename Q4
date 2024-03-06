@@ -1,0 +1,12 @@
+#Teria que ser feito da sequinte maneira
+#Primeira visita à sala:
+
+#Ligue o primeiro interruptor e aguarde alguns minutos.
+#Desligue o primeiro interruptor e ligue o segundo interruptor.
+#Entre na sala onde estão as lâmpadas.
+#Observação na sala:
+
+#A lâmpada acesa está conectada ao interruptor que foi ligado e desligado inicialmente (primeiro interruptor).
+#A lâmpada apagada e quente está conectada ao interruptor que foi ligado e permaneceu ligado (segundo interruptor).
+#A lâmpada apagada e fria está conectada ao interruptor que permaneceu desligado o tempo todo (terceiro interruptor).
+#Dessa forma, usando apenas duas idas à sala das lâmpadas, é possível identificar qual interruptor controla cada lâmpada. Essa abordagem explora o fato de que lâmpadas apagadas e frias podem ser usadas para identificar qual interruptor nunca foi ligado, enquanto lâmpadas apagadas e quentes podem ser usadas para identificar qual interruptor foi ligado e permaneceu ligado. A lâmpada acesa indica o interruptor que foi ligado e desligado inicialmente.
